@@ -1,7 +1,7 @@
 # SMU Machine Learning & Applications (MaLA) Lab
 
 ## Introduction
-MaLA lab consists of a ML research team led by assistant professor [Guansong Pang](https://www.guansongpang.com/), working on detecting and understanding unknown or abnormal 
+MaLA lab consists of a ML research team led by Assistant Professor [Guansong Pang](https://www.guansongpang.com/) in the School of Computing and Information Systems at Singapore Management University (SMU), working on detecting and understanding unknown or abnormal 
 data instances to safeguard the security, privacy, and safety of data, systems, and models.
 
 Some research areas of particular interest include:
