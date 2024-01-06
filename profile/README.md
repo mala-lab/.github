@@ -6,9 +6,8 @@ SMU Machine Learning & Applications (MaLA) Lab consists of a team led by Assista
 
 Some research areas of particular interest include:
 - Anomaly detection
-- Open-world learning (out-of-distribution detection, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
+- Open-world learning (out-of-distribution detection/generalization, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
 - Graph representation learning
-- Out-of-distribution generalization
 - Deep reinforcement learning for knowledge discovery
 
 The team also explores safety-critical and commercially/scientifically-significant real-world applications, 
