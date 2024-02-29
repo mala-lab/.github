@@ -5,13 +5,16 @@
 SMU Machine Learning & Applications (MaLA) Lab consists of a team led by Assistant Professor [Guansong Pang](https://www.guansongpang.com/) in the School of Computing and Information Systems at Singapore Management University (SMU), working on a variety of machine learning, data mining, and computer vision problems.
 
 Some research areas of particular interest include:
-- Anomaly detection
-- Open-world learning (out-of-distribution detection/generalization, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
-- Graph representation learning
-- Deep reinforcement learning for knowledge discovery
+- 🍿 Anomaly detection
+- 🍿 Open-world learning (out-of-distribution detection/generalization, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
+- 🍿 Graph representation learning
+- 🍿 Deep reinforcement learning for knowledge discovery
 
 The team also explores safety-critical and commercially/scientifically-significant real-world applications, 
 including network intrusion detection, fraud detection, person re-identification, early detection of diseases, learning from biomedicine data, defect detection, biometric anti-spoofing, hate/toxic speech detection, etc.
+
+The team has been collaborting with various research teams, e.g., [Prof. Ling Chen](https://scholar.google.com.sg/citations?user=L5aYWQcAAAAJ&hl=en)'s team, [Prof. Christopher Leckie](https://scholar.google.com.sg/citations?user=wUsI0cAAAAAJ&hl=en)'s team, [Prof. Xiao Bai](https://scholar.google.com.sg/citations?user=k6l1vZIAAAAJ&hl=en)'s team, [Prof. Peng Wang](https://scholar.google.com.sg/citations?hl=en&user=aPLp7pAAAAAJ)'s team, [Prof. Chunhua Shen](https://scholar.google.com.sg/citations?user=Ljk2BvIAAAAJ&hl=en)'s team, [Prof. Ming-Sheng Shang](https://scholar.google.com.sg/citations?hl=en&user=1cKbdYEAAAAJ)'s team, and [Prof. Gustavo Carneiro](https://scholar.google.com.sg/citations?hl=en&user=E0TtOWAAAAAJ)'s team.
+
 
 <!--
 
