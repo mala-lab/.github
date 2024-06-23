@@ -12,7 +12,7 @@ We have a focal research theme on recognizing and generalizing to abnormal, unkn
 
 &nbsp;&nbsp; 🍿 Deep learning on graphs, time series
 
-&nbsp;&nbsp; 🍿 Foundaiton models for graph, time series data
+&nbsp;&nbsp; 🍿 Foundaiton models for graph, time series, tabular data
 
 &nbsp;&nbsp; 🍿 Security and safety in foundation models (hallucination mitigation, AI-generated content detection, defense against model/data attacks, etc.)
 
