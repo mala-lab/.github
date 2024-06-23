@@ -10,7 +10,9 @@ We have a focal research theme on recognizing and generalizing to abnormal, unkn
 
 &nbsp;&nbsp; 🍿 Open-world learning (out-of-distribution detection/generalization, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
 
-&nbsp;&nbsp; 🍿 Graph representation learning
+&nbsp;&nbsp; 🍿 Deep learning on graphs, time series
+
+&nbsp;&nbsp; 🍿 Foundaiton models for graph, time series data
 
 &nbsp;&nbsp; 🍿 Security and safety in foundation models (hallucination mitigation, AI-generated content detection, defense against model/data attacks, etc.)
 
