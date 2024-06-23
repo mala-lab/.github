@@ -5,10 +5,14 @@
 SMU Machine Learning & Applications (MaLA) Lab consists of a team led by Assistant Professor [Guansong Pang](https://www.guansongpang.com/) in the School of Computing and Information Systems at Singapore Management University (SMU), working on a variety of machine learning, data mining, and computer vision problems.
 
 We have a focal research theme on recognizing and generalizing to abnormal, unknown, or unseen data for building trustworthy AI systems in open worlds. Some research areas of particular interest include:
-🍿 Anomaly detection
-🍿 Open-world learning (out-of-distribution detection/generalization, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
-🍿 Graph representation learning
-🍿 Security and safety in foundation models (hallucination mitigation, AI-generated content detection, defense against model/data attacks, etc.)
+
+&nbsp;&nbsp; 🍿 Anomaly detection
+
+&nbsp;&nbsp; 🍿 Open-world learning (out-of-distribution detection/generalization, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
+
+&nbsp;&nbsp; 🍿 Graph representation learning
+
+&nbsp;&nbsp; 🍿 Security and safety in foundation models (hallucination mitigation, AI-generated content detection, defense against model/data attacks, etc.)
 
 The team also explores some pivotal real-world applications of these areas, such as network intrusion detection, fraud detection, early detection of diseases/faults, learning from biomedicine data, industrial defect detection, biometric anti-spoofing, hate speech detection, etc.
 
