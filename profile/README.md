@@ -8,7 +8,7 @@ We have a focal research theme on recognizing and generalizing to abnormal, unkn
 
 &nbsp;&nbsp; 🍿 Anomaly detection
 
-&nbsp;&nbsp; 🍿 Open-world learning (out-of-distribution detection/generalization, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
+&nbsp;&nbsp; 🍿 Open-world learning (out-of-distribution detection, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
 
 &nbsp;&nbsp; 🍿 Deep learning and foundation models on graphs, time series, tabular data
 
