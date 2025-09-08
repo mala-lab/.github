@@ -8,9 +8,9 @@ We have a focal research theme on recognizing and generalizing to abnormal, unkn
 
 &nbsp;&nbsp; 🍿 Anomaly detection
 
-&nbsp;&nbsp; 🍿 Open-world learning (out-of-distribution detection, open-set recognition, long-tailed classification, continual learning, open-vocabulary learning, etc.)
+&nbsp;&nbsp; 🍿 Open-world machine learning (e.g., out-of-distribution detection, open-set recognition, long-tailed classification, continual learning)
 
-&nbsp;&nbsp; 🍿 Deep learning and foundation models on graphs, time series, tabular data
+&nbsp;&nbsp; 🍿 Specialized foundation models for specific type of data (e.g., graphs, time series, tabular) or tasks (e.g., anomaly detection, forecasting)
 
 &nbsp;&nbsp; 🍿 Security and safety in foundation models (hallucination mitigation, AI-generated content detection, defense against model/data attacks, etc.)
 
